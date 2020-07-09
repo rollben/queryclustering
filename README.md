@@ -18,3 +18,7 @@ queries corpus clustering algorithm and engineering development
 ├── LICENSE
 ├── queryclustering.py
 └── README.md
+
+代码运行
+
+python querycluster.py
